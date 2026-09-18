@@ -5,10 +5,10 @@
     <link>https://ranuk12.github.io/autopsia-mental-feed/</link>
     <atom:link href="https://ranuk12.github.io/autopsia-mental-feed/feed.xml" rel="self" type="application/rss+xml" />
     <language>es</language>
-    <description>Martes y viernes, un caso real: Tomas lo investiga, Nieve lo vivio. Un pibe de veinticinco y su abuela desarman por dentro crimenes, estafas y decisiones que terminaron mal. No contamos crimenes: explicamos como se fabrica la decision que termina en uno.</description>
+    <description>Martes y viernes, un caso real contado por Perla Bengoa, que fue taquigrafa de tribunales penales durante cuarenta anios: se sentaba en la sala y escribia, palabra por palabra, lo que decia la gente cuando le tocaba explicarse. No contamos crimenes: contamos como se fabrica la decision que termina en uno.</description>
     <copyright>Ranuk IT Solutions</copyright>
     <itunes:author>Ranuk IT Solutions</itunes:author>
-    <itunes:summary>Martes y viernes, un caso real: Tomas lo investiga, Nieve lo vivio. Un pibe de veinticinco y su abuela desarman por dentro crimenes, estafas y decisiones que terminaron mal. No contamos crimenes: explicamos como se fabrica la decision que termina en uno.</itunes:summary>
+    <itunes:summary>Martes y viernes, un caso real contado por Perla Bengoa, que fue taquigrafa de tribunales penales durante cuarenta anios: se sentaba en la sala y escribia, palabra por palabra, lo que decia la gente cuando le tocaba explicarse. No contamos crimenes: contamos como se fabrica la decision que termina en uno.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://ranuk12.github.io/autopsia-mental-feed/cover.jpg" />
@@ -22,19 +22,19 @@
       <title>Autopsia Mental</title>
       <link>https://ranuk12.github.io/autopsia-mental-feed/</link>
     </image>
-    <lastBuildDate>Fri, 18 Sep 2026 18:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:37:41 +0000</lastBuildDate>
     <item>
-      <title>Tres amigas, tres tazas de té y una deuda que no cerraba</title>
-      <description>Le prestaste la plata porque era tu amiga de toda la vida. Ella te devolvía en visitas, en masitas, en tecito de la tarde. En Buenos Aires, en mil novecientos setenta y nueve, tres mujeres hicieron exactamente eso. Las tres murieron en cinco semanas. Y durante meses nadie encontró nada raro.</description>
-      <itunes:summary>Le prestaste la plata porque era tu amiga de toda la vida. Ella te devolvía en visitas, en masitas, en tecito de la tarde. En Buenos Aires, en mil novecientos setenta y nueve, tres mujeres hicieron exactamente eso. Las tres murieron en cinco semanas. Y durante meses nadie encontró nada raro.</itunes:summary>
+      <title>Las masitas de Yiya y el año en que la plata era dulce</title>
+      <description>En el verano del setenta y nueve, en un departamento de Monserrat, una señora de barrio te servía el té y te hablaba de intereses. Tres de sus amigas murieron en cinco semanas y nadie miró las tazas. Vos tampoco las habrías mirado. Y eso es lo que más incomoda.</description>
+      <itunes:summary>En el verano del setenta y nueve, en un departamento de Monserrat, una señora de barrio te servía el té y te hablaba de intereses. Tres de sus amigas murieron en cinco semanas y nadie miró las tazas. Vos tampoco las habrías mirado. Y eso es lo que más incomoda.</itunes:summary>
       <itunes:author>Ranuk IT Solutions</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>17:12</itunes:duration>
-      <pubDate>Fri, 18 Sep 2026 18:00:26 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-18-tres-amigas-tres-tazas-de-te-y-una-deuda-que-no-cerraba</guid>
-      <link>https://ranuk12.github.io/autopsia-mental-feed/audio/2026-09-18-tres-amigas-tres-tazas-de-te-y-una-deuda-que-no-cerraba.mp3</link>
-      <enclosure url="https://ranuk12.github.io/autopsia-mental-feed/audio/2026-09-18-tres-amigas-tres-tazas-de-te-y-una-deuda-que-no-cerraba.mp3" length="8259183" type="audio/mpeg" />
+      <itunes:duration>19:07</itunes:duration>
+      <pubDate>Fri, 18 Sep 2026 20:37:41 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-18-las-masitas-de-yiya-y-el-ano-en-que-la-plata-era-dulce</guid>
+      <link>https://ranuk12.github.io/autopsia-mental-feed/audio/2026-09-18-las-masitas-de-yiya-y-el-ano-en-que-la-plata-era-dulce.mp3</link>
+      <enclosure url="https://ranuk12.github.io/autopsia-mental-feed/audio/2026-09-18-las-masitas-de-yiya-y-el-ano-en-que-la-plata-era-dulce.mp3" length="9179291" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
