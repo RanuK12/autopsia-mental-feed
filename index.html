@@ -45,11 +45,11 @@
 <header><div class="wrap hero">
   <img src="cover.jpg" alt="Portada de Autopsia Mental">
   <div>
-    <p class="kicker">Podcast diario · Espanol</p>
+    <p class="kicker">Martes y viernes · Espanol</p>
     <h1>Autopsia Mental</h1>
     <hr class="rule">
-    <p class="lead">Un caso real por dia y la mecanica psicologica que lo hace posible.
-      Tomas trae el expediente. Nieve trae el bisturi. Veinte minutos, todas las mananas.</p>
+    <p class="lead">Un caso real por dia. Tomas tiene veinticinco anios y lo investiga.
+      Nieve tiene setenta y pico y vivio la epoca. Veinte minutos, martes y viernes.</p>
     <a class="cta" href="feed.xml">Feed RSS</a>
     <a class="cta ghost" href="#produccion">Como se produce</a>
   </div>
@@ -61,9 +61,9 @@
     <div class="card"><h3>No contamos crimenes</h3>
       <p>Explicamos como se fabrica la decision que termina en uno. El caso es la excusa;
          el mecanismo es el producto.</p></div>
-    <div class="card"><h3>Dos voces, no un narrador</h3>
-      <p>Investigador y psicologa forense se interrumpen, discuten y se corrigen.
-         Veinte minutos de una sola voz cansan; una conversacion no.</p></div>
+    <div class="card"><h3>Un nieto y su abuela</h3>
+      <p>El corre, ella frena. El trae el dato, ella trae la persona que estaba detras.
+         Veinte minutos de una sola voz cansan; esta conversacion no.</p></div>
     <div class="card"><h3>Solo casos cerrados</h3>
       <p>Sentencia firme, dominio publico o protagonistas fallecidos. Si el expediente
          no aclara un dato, se dice que no lo aclara.</p></div>
@@ -72,11 +72,12 @@
 
 <section id="produccion"><div class="wrap">
   <h2>Produccion automatizada</h2>
-  <div class="step"><b>01</b><span>A las 03:00 el pipeline toma el caso del dia de una cola curada.</span></div>
+  <div class="step"><b>01</b><span>Martes y viernes a las 03:00 el pipeline toma el caso siguiente de una cola curada.</span></div>
   <div class="step"><b>02</b><span>Un LLM escribe el guion completo con marcas de ritmo, pausas y titubeo real.</span></div>
-  <div class="step"><b>03</b><span>ElevenLabs narra turno por turno con dos voces, encadenando la prosodia entre turnos.</span></div>
-  <div class="step"><b>04</b><span>ffmpeg arma el master: normalizacion a -16 LUFS, silencios de respiracion, tags ID3.</span></div>
-  <div class="step"><b>05</b><span>El RSS se actualiza solo y se publica. Spotify y Apple lo leen sin intervencion humana.</span></div>
+  <div class="step"><b>03</b><span>Una segunda pasada verifica fechas, nombres, vinculos y fallos judiciales contra fuentes, y corrige lo que este mal.</span></div>
+  <div class="step"><b>04</b><span>El motor de voz narra turno por turno con dos voces, encadenando la prosodia entre turnos.</span></div>
+  <div class="step"><b>05</b><span>ffmpeg arma el master: normalizacion a -16 LUFS, silencios de respiracion, tags ID3.</span></div>
+  <div class="step"><b>06</b><span>El RSS se actualiza solo y se publica. Spotify y Apple lo leen sin intervencion humana.</span></div>
   <p style="color:var(--dim);font-size:14.5px;margin-top:26px">
     Ningun paso requiere una persona. El sistema tiene un guardarrail de consumo:
     consulta la cuota de creditos antes de sintetizar y aborta si el guion se pasa del presupuesto.</p>
@@ -86,9 +87,9 @@
   <h2>Numeros</h2>
   <div class="meta">
     <div><b>20 min</b>por episodio</div>
-    <div><b>7</b>episodios por semana</div>
+    <div><b>2</b>episodios por semana</div>
     <div><b>~16k</b>caracteres de voz por episodio</div>
-    <div><b>~480k</b>caracteres por mes</div>
+    <div><b>~135k</b>caracteres por mes</div>
   </div>
 </div></section>
 
