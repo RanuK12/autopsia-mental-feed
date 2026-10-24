@@ -3,41 +3,35 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Autopsia Mental</title>
-<meta name="description" content="Podcast diario en espanol. Un caso real por dia y la mecanica psicologica que lo hace posible. Produccion 100% automatizada.">
+<title>Autopsia Mental · Marcos Soler</title>
+<meta name="description" content="Reconstrucción forense y psicológica de crímenes reales. Narrado por Marcos Soler, ex-perito fotográfico de escenas del crimen.">
 <style>
   :root{
-    --bg:#121213; --panel:#191919; --line:#2a2a2b;
-    --bone:#e4e0d8; --dim:#8a8781; --red:#b02026;
+    --bg:#101012; --panel:#18181a; --line:#27272a;
+    --bone:#f4f4f5; --dim:#a1a1aa; --red:#dc2626;
     color-scheme:dark;
   }
   *{box-sizing:border-box}
   body{margin:0;background:var(--bg);color:var(--bone);
-       font:16px/1.65 -apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif}
-  .wrap{max-width:900px;margin:0 auto;padding:0 20px}
+       font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+  .wrap{max-width:920px;margin:0 auto;padding:0 24px}
   header{padding-block:72px 56px;border-bottom:1px solid var(--line)}
-  .hero{display:flex;gap:40px;align-items:center;flex-wrap:wrap}
-  .hero img{width:260px;max-width:100%;border:1px solid var(--line)}
-  .kicker{font-size:12px;letter-spacing:.34em;color:var(--dim);text-transform:uppercase;margin:0 0 14px}
-  h1{font-size:clamp(38px,7vw,64px);line-height:1;margin:0 0 18px;letter-spacing:-.01em}
-  .lead{font-size:19px;color:#c9c5bd;margin:0 0 24px;max-width:46ch}
-  .rule{width:64px;height:3px;background:var(--red);border:0;margin:0 0 24px}
-  .cta{display:inline-block;padding:13px 26px;background:var(--red);color:#fff;
-       text-decoration:none;font-weight:700;letter-spacing:.06em;font-size:14px;text-transform:uppercase}
+  .hero{display:flex;gap:44px;align-items:center;flex-wrap:wrap}
+  .hero img{width:260px;max-width:100%;border-radius:8px;border:1px solid var(--line);box-shadow:0 12px 30px rgba(0,0,0,0.6)}
+  .kicker{font-size:12px;letter-spacing:.3em;color:var(--red);text-transform:uppercase;margin:0 0 14px;font-weight:700}
+  h1{font-size:clamp(36px,6vw,58px);line-height:1.05;margin:0 0 16px;letter-spacing:-.02em}
+  .lead{font-size:18px;color:#d4d4d8;margin:0 0 24px;max-width:48ch;line-height:1.6}
+  .rule{width:56px;height:3px;background:var(--red);border:0;margin:0 0 24px}
+  .cta{display:inline-block;padding:12px 24px;background:var(--red);color:#fff;
+       text-decoration:none;font-weight:700;letter-spacing:.05em;font-size:13.5px;text-transform:uppercase;border-radius:4px}
   .cta.ghost{background:transparent;border:1px solid var(--line);color:var(--bone);margin-left:10px}
   section{padding-block:56px;border-bottom:1px solid var(--line)}
-  h2{font-size:13px;letter-spacing:.3em;text-transform:uppercase;color:var(--dim);margin:0 0 26px;font-weight:700}
-  .grid{display:grid;gap:20px;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
-  .card{background:var(--panel);border:1px solid var(--line);padding:22px}
-  .card h3{margin:0 0 8px;font-size:16px}
+  h2{font-size:13px;letter-spacing:.25em;text-transform:uppercase;color:var(--dim);margin:0 0 24px;font-weight:700}
+  .grid{display:grid;gap:20px;grid-template-columns:repeat(auto-fit,minmax(250px,1fr))}
+  .card{background:var(--panel);border:1px solid var(--line);padding:22px;border-radius:6px}
+  .card h3{margin:0 0 8px;font-size:16px;color:var(--bone)}
   .card p{margin:0;color:var(--dim);font-size:14.5px;line-height:1.6}
-  .step{display:flex;gap:16px;padding:14px 0;border-bottom:1px dashed var(--line)}
-  .step:last-child{border-bottom:0}
-  .step b{color:var(--red);font-variant-numeric:tabular-nums;min-width:28px}
-  .step span{color:#c9c5bd;font-size:15px}
-  .meta{display:flex;gap:36px;flex-wrap:wrap;color:var(--dim);font-size:14px}
-  .meta b{display:block;color:var(--bone);font-size:26px;line-height:1.2;font-variant-numeric:tabular-nums}
-  footer{padding-block:40px 64px;color:var(--dim);font-size:13.5px}
+  footer{padding-block:40px 60px;color:var(--dim);font-size:13.5px}
   a{color:var(--bone)}
 </style>
 </head>
@@ -45,57 +39,30 @@
 <header><div class="wrap hero">
   <img src="cover.jpg" alt="Portada de Autopsia Mental">
   <div>
-    <p class="kicker">Martes y viernes · Espanol</p>
+    <p class="kicker">True Crime Forense · Temporada 2</p>
     <h1>Autopsia Mental</h1>
     <hr class="rule">
-    <p class="lead">Un caso real por dia. Tomas tiene veinticinco anios y lo investiga.
-      Nieve tiene setenta y pico y vivio la epoca. Veinte minutos, martes y viernes.</p>
-    <a class="cta" href="feed.xml">Feed RSS</a>
-    <a class="cta ghost" href="#produccion">Como se produce</a>
+    <p class="lead">Una reconstrucción forense y psicológica narrada por Marcos Soler, ex-fotógrafo pericial de homicidios con dieciocho años en la escena del crimen. Sin morbo. Con la luz exacta.</p>
+    <a class="cta" href="https://open.spotify.com/show/3PiAFenPHWAcgUIMgsZhWU">Escuchar en Spotify</a>
+    <a class="cta ghost" href="feed.xml">Feed RSS</a>
   </div>
 </div></header>
 
 <section><div class="wrap">
-  <h2>El formato</h2>
+  <h2>El Enfoque</h2>
   <div class="grid">
-    <div class="card"><h3>No contamos crimenes</h3>
-      <p>Explicamos como se fabrica la decision que termina en uno. El caso es la excusa;
-         el mecanismo es el producto.</p></div>
-    <div class="card"><h3>Un nieto y su abuela</h3>
-      <p>El corre, ella frena. El trae el dato, ella trae la persona que estaba detras.
-         Veinte minutos de una sola voz cansan; esta conversacion no.</p></div>
-    <div class="card"><h3>Solo casos cerrados</h3>
-      <p>Sentencia firme, dominio publico o protagonistas fallecidos. Si el expediente
-         no aclara un dato, se dice que no lo aclara.</p></div>
-  </div>
-</div></section>
-
-<section id="produccion"><div class="wrap">
-  <h2>Produccion automatizada</h2>
-  <div class="step"><b>01</b><span>Martes y viernes a las 03:00 el pipeline toma el caso siguiente de una cola curada.</span></div>
-  <div class="step"><b>02</b><span>Un LLM escribe el guion completo con marcas de ritmo, pausas y titubeo real.</span></div>
-  <div class="step"><b>03</b><span>Una segunda pasada verifica fechas, nombres, vinculos y fallos judiciales contra fuentes, y corrige lo que este mal.</span></div>
-  <div class="step"><b>04</b><span>El motor de voz narra turno por turno con dos voces, encadenando la prosodia entre turnos.</span></div>
-  <div class="step"><b>05</b><span>ffmpeg arma el master: normalizacion a -16 LUFS, silencios de respiracion, tags ID3.</span></div>
-  <div class="step"><b>06</b><span>El RSS se actualiza solo y se publica. Spotify y Apple lo leen sin intervencion humana.</span></div>
-  <p style="color:var(--dim);font-size:14.5px;margin-top:26px">
-    Ningun paso requiere una persona. El sistema tiene un guardarrail de consumo:
-    consulta la cuota de creditos antes de sintetizar y aborta si el guion se pasa del presupuesto.</p>
-</div></section>
-
-<section><div class="wrap">
-  <h2>Numeros</h2>
-  <div class="meta">
-    <div><b>20 min</b>por episodio</div>
-    <div><b>2</b>episodios por semana</div>
-    <div><b>~16k</b>caracteres de voz por episodio</div>
-    <div><b>~135k</b>caracteres por mes</div>
+    <div class="card"><h3>La Escena Habla</h3>
+      <p>La policía ve un expediente; el perito ve la copa rota, la luz de las tres de la tarde y el detalle doméstico que el asesino no pensó en limpiar.</p></div>
+    <div class="card"><h3>Cero Morbo Gratuito</h3>
+      <p>No buscamos el shock. Buscamos entender la mecánica fría con la que una persona normal cruza la línea de la que no se vuelve.</p></div>
+    <div class="card"><h3>Evidencia y Sentencia</h3>
+      <p>Casos verídicos, documentación forense desclasificada y fallos judiciales firmes analizados con precisión milimétrica.</p></div>
   </div>
 </div></section>
 
 <footer><div class="wrap">
   Producido por Ranuk IT Solutions · <a href="mailto:tanquer9@gmail.com">tanquer9@gmail.com</a><br>
-  Voces sinteticas. Los casos son reales y de dominio publico.
+  Narración y diseño sonoro original. Los casos son reales y de dominio público.
 </div></footer>
 </body>
 </html>
