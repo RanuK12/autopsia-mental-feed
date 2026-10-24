@@ -7,12 +7,13 @@
     <language>es</language>
     <description>Una reconstrucción forense y psicológica de los crímenes reales más complejos, narrada por Marcos Soler, ex-perito fotográfico de escenas del crimen con casi dos décadas de oficio. Acá no contamos morbo ni sangre: contamos cómo se fabrica la decisión de cruzar la línea, los detalles domésticos que delatan al culpable y las mentiras que nadie supo leer a tiempo.</description>
     <copyright>Ranuk IT Solutions</copyright>
-    <ns1:author>Ranuk IT Solutions</ns1:author>
+    <ns1:author>Marcos Soler · Ranuk IT Solutions</ns1:author>
     <ns1:summary>Una reconstrucción forense y psicológica de los crímenes reales más complejos, narrada por Marcos Soler, ex-perito fotográfico de escenas del crimen con casi dos décadas de oficio. Acá no contamos morbo ni sangre: contamos cómo se fabrica la decisión de cruzar la línea, los detalles domésticos que delatan al culpable y las mentiras que nadie supo leer a tiempo.</ns1:summary>
     <ns1:type>episodic</ns1:type>
     <ns1:explicit>false</ns1:explicit>
     <ns1:image href="https://ranuk12.github.io/autopsia-mental-feed/cover.jpg" />
     <ns1:category text="True Crime" />
+    <ns1:category text="Society &amp; Culture" />
     <ns1:owner>
       <ns1:name>Ranuk IT Solutions</ns1:name>
       <ns1:email>tanquer9@gmail.com</ns1:email>
@@ -26,7 +27,7 @@
       <title>El Clan Puccio, la vajilla servida y el sótano de San Isidro</title>
       <description>Entrás a la casona de Martín y Omar 544, donde una familia del CASI cenaba mientras abajo una vecina gemía encadenada. Marcos Soler reconstruye la escena del 23 de agosto de 1985: el mantel limpio, el olor a lavandina y la cortadora de pasto que tapaba los gritos.</description>
       <ns1:summary>Entrás a la casona de Martín y Omar 544, donde una familia del CASI cenaba mientras abajo una vecina gemía encadenada. Marcos Soler reconstruye la escena del 23 de agosto de 1985: el mantel limpio, el olor a lavandina y la cortadora de pasto que tapaba los gritos.</ns1:summary>
-      <ns1:author>Ranuk IT Solutions</ns1:author>
+      <ns1:author>Marcos Soler · Ranuk IT Solutions</ns1:author>
       <ns1:explicit>false</ns1:explicit>
       <ns1:episodeType>full</ns1:episodeType>
       <ns1:duration>13:45</ns1:duration>
