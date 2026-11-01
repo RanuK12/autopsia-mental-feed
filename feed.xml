@@ -62,5 +62,18 @@
       <link>https://ranuk12.github.io/autopsia-mental-feed/audio/2026-10-25-el-robo-del-siglo-en-acassuso-el-agua-tibia-y-la-n.mp3</link>
       <enclosure url="https://ranuk12.github.io/autopsia-mental-feed/audio/2026-10-25-el-robo-del-siglo-en-acassuso-el-agua-tibia-y-la-n.mp3" length="19926889" type="audio/mpeg" />
     </item>
+    <item>
+      <title>El ángel de la muerte: Robledo Puch y la sonrisa vacía</title>
+      <description>Te invito a entrar en la habitación donde la luz de la lámpara revela una sonrisa que no siente, y a seguir la cadena de decisiones que llevó a Carlos Robledo Puch a convertirse en el asesino que la prensa llamó “el ángel”. Descubrirás el detalle que pasó desapercibido, la cronología exacta y el error que lo delató, antes de cerrar con la pista que nos lleva al siguiente caso.</description>
+      <ns1:summary>Te invito a entrar en la habitación donde la luz de la lámpara revela una sonrisa que no siente, y a seguir la cadena de decisiones que llevó a Carlos Robledo Puch a convertirse en el asesino que la prensa llamó “el ángel”. Descubrirás el detalle que pasó desapercibido, la cronología exacta y el error que lo delató, antes de cerrar con la pista que nos lleva al siguiente caso.</ns1:summary>
+      <ns1:author>Marcos Soler · Ranuk IT Solutions</ns1:author>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>06:10</ns1:duration>
+      <pubDate>Sun, 01 Nov 2026 07:32:32 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-01-el-ngel-de-la-muerte-robledo-puch-y-la-sonrisa-vac</guid>
+      <link>https://ranuk12.github.io/autopsia-mental-feed/audio/2026-11-01-el-ngel-de-la-muerte-robledo-puch-y-la-sonrisa-vac.mp3</link>
+      <enclosure url="https://ranuk12.github.io/autopsia-mental-feed/audio/2026-11-01-el-ngel-de-la-muerte-robledo-puch-y-la-sonrisa-vac.mp3" length="9280726" type="audio/mpeg" />
+    </item>
   </channel>
 </rss>
