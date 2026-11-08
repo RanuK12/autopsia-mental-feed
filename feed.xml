@@ -75,5 +75,18 @@
       <link>https://ranuk12.github.io/autopsia-mental-feed/audio/2026-11-01-el-ngel-de-la-muerte-robledo-puch-y-la-sonrisa-vac.mp3</link>
       <enclosure url="https://ranuk12.github.io/autopsia-mental-feed/audio/2026-11-01-el-ngel-de-la-muerte-robledo-puch-y-la-sonrisa-vac.mp3" length="9280726" type="audio/mpeg" />
     </item>
+    <item>
+      <title>Harold Shipman, el médico que convirtió la consulta en cámara mortuoria</title>
+      <description>Te invito a entrar a la sala de un médico que, bajo la máscara de la confianza, convirtió cada receta en una sentencia. Verás cómo los pequeños gestos cotidianos revelan la lógica de un asesino que operó en silencio durante veinte años, y descubrirás la grieta que finalmente lo delató.</description>
+      <ns1:summary>Te invito a entrar a la sala de un médico que, bajo la máscara de la confianza, convirtió cada receta en una sentencia. Verás cómo los pequeños gestos cotidianos revelan la lógica de un asesino que operó en silencio durante veinte años, y descubrirás la grieta que finalmente lo delató.</ns1:summary>
+      <ns1:author>Marcos Soler · Ranuk IT Solutions</ns1:author>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>04:26</ns1:duration>
+      <pubDate>Sun, 08 Nov 2026 07:31:39 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-08-harold-shipman-el-m-dico-que-convirti-la-consulta-</guid>
+      <link>https://ranuk12.github.io/autopsia-mental-feed/audio/2026-11-08-harold-shipman-el-m-dico-que-convirti-la-consulta-.mp3</link>
+      <enclosure url="https://ranuk12.github.io/autopsia-mental-feed/audio/2026-11-08-harold-shipman-el-m-dico-que-convirti-la-consulta-.mp3" length="6788984" type="audio/mpeg" />
+    </item>
   </channel>
 </rss>
