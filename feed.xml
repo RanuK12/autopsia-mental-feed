@@ -88,5 +88,18 @@
       <link>https://ranuk12.github.io/autopsia-mental-feed/audio/2026-11-08-harold-shipman-el-m-dico-que-convirti-la-consulta-.mp3</link>
       <enclosure url="https://ranuk12.github.io/autopsia-mental-feed/audio/2026-11-08-harold-shipman-el-m-dico-que-convirti-la-consulta-.mp3" length="6788984" type="audio/mpeg" />
     </item>
+    <item>
+      <title>La cal viva y la mentira perfecta</title>
+      <description>Vos creés que conocés a la persona que duerme a tu lado, pero a veces la fachada de una vida perfecta es solo el envoltorio de una fosa común. Entramos a la casa de Nantes para entender cómo un aristócrata decidió que la única forma de salvar a su familia era ejecutándola en silencio.</description>
+      <ns1:summary>Vos creés que conocés a la persona que duerme a tu lado, pero a veces la fachada de una vida perfecta es solo el envoltorio de una fosa común. Entramos a la casa de Nantes para entender cómo un aristócrata decidió que la única forma de salvar a su familia era ejecutándola en silencio.</ns1:summary>
+      <ns1:author>Marcos Soler · Ranuk IT Solutions</ns1:author>
+      <ns1:explicit>false</ns1:explicit>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:duration>12:33</ns1:duration>
+      <pubDate>Sun, 15 Nov 2026 07:40:35 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-15-la-cal-viva-y-la-mentira-perfecta</guid>
+      <link>https://ranuk12.github.io/autopsia-mental-feed/audio/2026-11-15-la-cal-viva-y-la-mentira-perfecta.mp3</link>
+      <enclosure url="https://ranuk12.github.io/autopsia-mental-feed/audio/2026-11-15-la-cal-viva-y-la-mentira-perfecta.mp3" length="18472456" type="audio/mpeg" />
+    </item>
   </channel>
 </rss>
